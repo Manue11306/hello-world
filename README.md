@@ -1,2 +1,2 @@
 # hello-world
-Este repositorio es para practicar GitHub Flow
+mi nombre el manuel, me gusta jugar futbol y volleyball, me gusta jugar videojuegos
